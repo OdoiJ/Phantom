@@ -1,0 +1,79 @@
+body {
+    background:white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+#navbar {
+    position: fixed;
+    height: 200%;
+    border-right: solid;
+    border-color: black;
+    float: left;
+    width: 170px;
+
+}
+ #navbar h1{
+     text-align: center;
+     color:black;
+ }
+#navbar ul{
+    height: 88%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+#navbar li {
+    color: black;
+    border: 1px solid;
+    padding: 8px;
+    padding-left: 45px;
+    width: 100%;
+    position: relative;
+    list-style: none;
+    left: -50px;
+    border-bottom-width: 0px;
+}
+#navbar a {
+    color: blue; 
+    text-decoration: none;   
+}
+/* #Origins{
+    color: black;
+    float: left;
+} */
+#main-doc h3{
+    text-align: left;
+    margin: 0px 5px 5px 0px;
+    padding: 15px 15px 15px 15px;
+}
+#main-section{
+    float: left;
+}
+div p{
+    text-align: left;
+    color: black;
+    padding: 5px 10px 10px 10px;
+    margin: 15px;
+}
+div li{
+    color: black;
+    text-align: left;
+    margin: 15px 0px 0px 20px;
+}
+div form{
+    margin:15px 0px 0px 20px;
+}
+#Origins{
+    color: black;
+    
+}
+#main-doc{
+    padding-left: 10px;
+    margin-left: 20%;
+    margin-bottom: 
+    float: left;
+    width: 80%;
+}
+#personality{
+    color: black;
+}
